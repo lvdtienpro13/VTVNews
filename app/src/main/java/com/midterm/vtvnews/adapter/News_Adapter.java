@@ -11,8 +11,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import com.example.news.R;
-import com.example.news.enity.Item;
+import com.midterm.vtvnews.R;
+import com.midterm.vtvnews.enity.Item;
 import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
